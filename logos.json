@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Placeholder",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://example.com/",
+    "link": "https://example.com/",
+    "licence": "N/A"
+  },
+  {
+    "name": "Devoxx France",
+    "created": "2018-01-22",
+    "updated": "2018-01-22",
+    "source": "https://devoxx.fr/",
+    "link":
+      "https://prismic-io.s3.amazonaws.com/dvxfrance/f4989a9f149ab92da707fb3acb7b2dbf0ee33a3d_logo-texte-devoxx-france-2-lignes-400.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "Devoxx Belgium",
+    "created": "2018-01-22",
+    "updated": "2018-01-22",
+    "source": "https://devoxx.be/",
+    "link":
+      "https://devoxx.be/wp-content/uploads/2017/04/DEVOXX-Name-Only-TransparentBackground.png",
+    "licence": "N/A"
+  }
+]

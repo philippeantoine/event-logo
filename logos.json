@@ -59,5 +59,193 @@
     "link":
       "http://blog.xebia.fr/wp-content/uploads/2018/01/dataxday-logo-1024x274.png",
     "licence": "N/A"
+  },
+  {
+    "name": "GDD Europe",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://developers.google.com/events/gdd-europe/",
+    "link":
+      "http://www.androidpolice.com/wp-content/uploads/2017/09/nexus2cee_Day_2_Keynote_GDD_Europe_17_-_YouTube_-_Google__2017-09-07_17-12-17-728x402.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "Cloud Summit",
+    "created": "2018-01-22",
+    "updated": "2018-01-22",
+    "source": "",
+    "link":
+      "http://www.wemagine.fr/wp-content/uploads/2017/08/gc-summit-paris-colorlogo.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "dotScale",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://www.dotscale.io/",
+    "link": "https://www.dotscale.io/static/images/logo-dotscale.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "dotAI",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://www.dotai.io/",
+    "link": "https://www.dotai.io/static/images/logo-dotai.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "Viva Technology",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://vivatechnology.com/",
+    "link":
+      "https://static.wixstatic.com/media/35efb3_d56556b2dd5349f8ae79d230e881daf4~mv2.png_srz_2379_1156_85_22_0.50_1.20_0.00_png_srz",
+    "licence": "N/A"
+  },
+  {
+    "name": "Google IO",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://events.google.com/io/",
+    "link": "https://codelabs.developers.google.com/views/io2017/iologo.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "Android Makers",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://androidmakers.fr/",
+    "link":
+      "http://androidmakers.fr/img/other/logo_oneline_black_text_600x133.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "dotJS",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://www.dotjs.io/",
+    "link": "https://www.dotjs.io/static/images/logo-dotjs.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "Crossbrowser Meetup",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://www.meetup.com/fr-FR/Paris-Cross-Browser-Meetup",
+    "link": "https://secure.meetup.com/s/img/0/logo/svg/logo--script.svg",
+    "licence": "N/A"
+  },
+  {
+    "name": "GDD Europe",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://developers.google.com/events/gdd-europe/",
+    "link":
+      "http://www.androidpolice.com/wp-content/uploads/2017/09/nexus2cee_Day_2_Keynote_GDD_Europe_17_-_YouTube_-_Google__2017-09-07_17-12-17-728x402.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "Viva Technology",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://vivatechnology.com/",
+    "link":
+      "https://static.wixstatic.com/media/35efb3_d56556b2dd5349f8ae79d230e881daf4~mv2.png_srz_2379_1156_85_22_0.50_1.20_0.00_png_srz",
+    "licence": "N/A"
+  },
+  {
+    "name": "Google IO",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://events.google.com/io/",
+    "link": "https://codelabs.developers.google.com/views/io2017/iologo.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "Android Makers",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://androidmakers.fr/",
+    "link":
+      "http://androidmakers.fr/img/other/logo_oneline_black_text_600x133.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "Dataxday",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://dataxday.fr/",
+    "link":
+      "http://blog.xebia.fr/wp-content/uploads/2018/01/dataxday-logo-1024x274.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "ngEurope",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://ngeurope.org/",
+    "link": "https://ngeurope.org/events/104/logo.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "ClusterEurope",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://clustereurope.org/",
+    "link": "https://clustereurope.org/events/170/logo.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "Serverless Conf Paris",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "http://paris.serverlessconf.io/",
+    "link":
+      "https://d33wubrfki0l68.cloudfront.net/f6b75fad424d74227c3e93604c33a1cb88049f2e/f25f2/assets/images/logo.svg",
+    "licence": "N/A"
+  },
+  {
+    "name": "SEO Campus",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "http://paris.seo-campus.org/",
+    "link":
+      "http://paris.seo-campus.org/files/sites/3/2016/12/capture-decran-2016-12-23-a-14.31.10.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "AMP Conference",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://www.ampproject.org/amp-conf/",
+    "link": "https://www.ampproject.org/static/img/logo-og-image.jpg",
+    "licence": "N/A"
+  },
+  {
+    "name": "Dockercon",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://2018.dockercon.com",
+    "link":
+      "https://lh3.googleusercontent.com/q3nYDAKv_DI-iJKIBJwPTjgW_mc20lEmAEXV9vMSGdXMavgpKFIBLe_JevHdUUpmSWF6U1M=s170",
+    "licence": "N/A"
+  },
+  {
+    "name": "La Product Conference",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "http://laproductconf.com/",
+    "link":
+      "http://laproductconf.com/wp-content/uploads/2017/03/Logo-LPC-rect-tp-copie-2-1.png",
+    "licence": "N/A"
+  },
+  {
+    "name": "Sunny Tech",
+    "created": "2018-01-01",
+    "updated": "2018-01-01",
+    "source": "https://sunny-tech.io/",
+    "link": "https://sunny-tech.io/images/sunny-tech-logo.svg",
+    "licence": "N/A"
   }
 ]

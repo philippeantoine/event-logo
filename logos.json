@@ -24,5 +24,40 @@
     "link":
       "https://devoxx.be/wp-content/uploads/2017/04/DEVOXX-Name-Only-TransparentBackground.png",
     "licence": "N/A"
+  },
+  {
+    "name": "Devfest Lille",
+    "created": "2018-01-22",
+    "updated": "2018-01-22",
+    "source": "https://devfest.gdglille.org/",
+    "link":
+      "https://assets.chooseyourboss.com/events/logos/000/000/056/medium/devfest-logo.png?1495100223",
+    "licence": "N/A"
+  },
+  {
+    "name": "Devfest Nantes",
+    "created": "2018-01-22",
+    "updated": "2018-01-22",
+    "source":
+      "https://pbs.twimg.com/profile_images/849968541721919488/r-DI0V2a.jpg",
+    "link": "https://devfest.gdgnantes.com/",
+    "licence": "N/A"
+  },
+  {
+    "name": "Devfest Toulouse",
+    "created": "2018-01-22",
+    "updated": "2018-01-22",
+    "source": "",
+    "link": "devfesttoulouse.fr",
+    "licence": "N/A"
+  },
+  {
+    "name": "Dataxday",
+    "created": "2018-01-22",
+    "updated": "2018-01-22",
+    "source": "https://dataxday.fr/",
+    "link":
+      "http://blog.xebia.fr/wp-content/uploads/2018/01/dataxday-logo-1024x274.png",
+    "licence": "N/A"
   }
 ]
